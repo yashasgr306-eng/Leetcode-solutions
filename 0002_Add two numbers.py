@@ -21,5 +21,5 @@ class Solution:
             if l2:
                 l2 = l2.next
 
-        return dummy.next
+
            
