@@ -7,7 +7,7 @@ This repository contains my solutions to LeetCode problems using Python.
 
 ## Progress
 - Easy: 1
-- Medium: 3
+- Medium: 4
 - Hard: 1
 
 ## Goal
