@@ -3,7 +3,8 @@ class Solution:
         m = len(s)
         n = len(p)
 
-        
+        dp = [[False] * (n + 1) for _ in range(m + 1)]
+        dp[0][0] = True
 
         # Handle patterns like a*, a*b*, a*b*c*
         for j in range(2, n + 1):
