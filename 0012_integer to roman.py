@@ -13,10 +13,3 @@ class Solution:
         ]
 
         result = ""
-
-        for i in range(len(values)):
-            while num >= values[i]:
-                result += symbols[i]
-                num -= values[i]
-
-        return result
