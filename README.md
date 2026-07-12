@@ -6,9 +6,9 @@ This repository contains my solutions to LeetCode problems using Python.
 - Python
 
 ## Progress
-- Easy: 1
-- Medium: 4
-- Hard: 1
+- Easy: 4
+- Medium: 6
+- Hard: 3
 
 ## Goal
 To improve my problem-solving skills and prepare for coding interviews, hackathons, and software development roles.
