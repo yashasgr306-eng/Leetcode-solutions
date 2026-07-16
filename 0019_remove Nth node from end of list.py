@@ -24,4 +24,4 @@ class Solution:
         # Remove the nth node from the end
         slow.next = slow.next.next
 
-        return dummy.next
+       
