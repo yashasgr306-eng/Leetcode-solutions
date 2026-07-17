@@ -9,7 +9,7 @@ class Solution:
             ']': '['
         }
 
-        for ch in s:
+      
 
             if ch in "({[":
                 stack.append(ch)
