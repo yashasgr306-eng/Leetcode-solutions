@@ -23,4 +23,4 @@ class Solution:
                 if top != pairs[ch]:
                     return False
 
-        return len(stack) == 0
+
