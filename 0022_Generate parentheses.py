@@ -15,6 +15,3 @@ class Solution:
             # Add ')' only if it won't make the string invalid
             if close_count < open_count:
                 backtrack(current + ")", open_count, close_count + 1)
-
-        backtrack("", 0, 0)
-        return result
